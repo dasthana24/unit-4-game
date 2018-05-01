@@ -1,0 +1,126 @@
+.cry-img {
+	height: 200px;
+	width: 200px;
+}
+
+.back {
+	background-color: white;
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+}
+
+body {
+	background-image: url("../images/grid_pink_by_leafeniel-d4afuhm.jpg");
+	margin-left: 50px;
+}
+
+.jumbotron {
+
+	  font-weight: bolder;
+	  font-size: 42px;
+	  color: palevioletred;
+	
+	/* float: left; */
+	background-image: url('../images/161813816.jpg');
+	background-size: cover;
+	border-width: 1.5px ;
+	color: slateblue;
+	/* background-repeat: no-repeat; */
+}
+
+
+
+#instr-back {
+	background-color:black;
+	float: left;
+
+	border-style: solid;
+	border-width: 1.5px ;
+	color: slateblue;
+	padding-left: 10px;
+	padding-right: 10px;
+	/* margin: 20px; */
+	/* width: 650px; */
+}
+
+#instructions {
+	font-family: arial;
+	color:purple;
+	font-weight: bold;
+}
+
+#target-back {
+	background-color:black;
+	float: left;
+	border-style: solid;
+	border-width: 1.5px ;
+	color: slateblue;
+	margin-top: 30px;
+	padding: 40px;
+}
+
+#counter-back {
+	background-color:black;
+	float: left;
+	border-style: solid;
+	border-width: 1.5px ;
+	color: slateblue;
+	margin-top: 30px;
+	padding: 40px;
+}
+
+#score {
+	background-color:black;
+	float: left;
+	border-style: solid;
+	border-width: 1.5px ;
+	color: slateblue;
+	margin-top: 30px;
+	padding: 40px;
+}
+
+#score-back {
+	background-color:black;
+	float: left;
+}
+
+#curScore {
+	background-color:black;
+}
+
+#numGuess {
+	color: slateblue;
+	font-family: arial;
+	font-weight: bold;
+}
+
+#targetNumber {
+	color: purple;
+	font-size: 40px;
+}
+
+#wins {
+	color: purple;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 28px;
+}
+
+#losses {
+	color: purple;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 28px;
+}
+
+#score-txt {
+	color: purple;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 28px;
+}
